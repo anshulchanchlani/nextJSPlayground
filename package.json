@@ -1,0 +1,17 @@
+{
+  "name": "barclays-premier-league",
+  "version": "1.0.0",
+  "description": "Demo App using Next.JS",
+  "main": "index.js",
+  "scripts": {
+    "start": "next",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anshul Chanchlani",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.15.3",
+    "next": "^1.2.3",
+    "react": "^15.4.2"
+  }
+}
